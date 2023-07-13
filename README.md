@@ -7,14 +7,17 @@
 
 - 📫 How to reach me **shaikhhanzala27@gmail.com**
 
-<br>
-   **Obsessed with**🧑‍💻
-  <br>
+<hr/>
+
+**Obsessed with** 🧑‍💻<br>
 - Coding 🧑‍💻
 - Automation 🤖
 - Startups🚀
+- Marketing 🤳
 - Designing ✏️
 - Domains 🌐
+
+<hr />
 
   ## Connect With Me  
 <div align="center">
