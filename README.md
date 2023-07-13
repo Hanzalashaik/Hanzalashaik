@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **shaikhhanzala27@gmail.com**
 
-<hr/>
-
 **Obsessed with** 🧑‍💻<br>
 - Coding 🧑‍💻
 - Automation 🤖
