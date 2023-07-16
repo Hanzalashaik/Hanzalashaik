@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hanzala Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello! It's Hanzala Shaikh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
+<h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalashaik&label=Profile%20views&color=0e75b6&style=flat" alt="hanzalashaik" /> </p>
 
