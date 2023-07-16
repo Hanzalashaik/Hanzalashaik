@@ -1,7 +1,7 @@
 <h1 align="center">Hello! It's Hanzala Shaikh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalashaik&label=Profile%20views&color=0e75b6&style=flat" alt="hanzalashaik" /> </p>
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=codewithnadeem14502&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnadeem14502" />
 
 - 🌱 I’m currently learning **MERN STACK**
 
