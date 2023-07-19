@@ -42,6 +42,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzalashaik)](https://github.com/Hanzalashaik/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzalashaik&show_icons=true&theme=radical)](https://github.com/Hanzalashaik/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
 <hr/>
