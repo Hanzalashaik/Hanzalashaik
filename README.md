@@ -40,10 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalashaik&" alt="hanzalashaik" /></p>
 <hr/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hanzalashaik&theme=cobalt)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hanzalashaik&theme=cobalt)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hanzalashaik&theme=cobalt)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
 <hr/>
