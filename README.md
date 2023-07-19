@@ -41,6 +41,7 @@
 <hr/>
 
 
-![Hanzala's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hanzalashaik&theme=cobalt)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzalashaik)](https://github.com/Hanzalashaik/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
 <hr/>
