@@ -38,3 +38,5 @@
 <hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalashaik&" alt="hanzalashaik" /></p>
+
+<a href="https://github.com/Hanzalashaik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/Hanzalashaik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a>
