@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hanzala Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola! It's Hanzala Shaikh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
+<h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
+
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=codewithnadeem14502&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnadeem14502" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalashaik&label=Profile%20views&color=0e75b6&style=flat" alt="hanzalashaik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzalashaik" alt="hanzalashaik" /></a> </p>
+
 
 - 🔭 I’m currently working on **100dayscoding.com**
 
@@ -27,6 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalashaik&" alt="hanzalashaik" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzalashaik" alt="hanzalashaik" /></a> </p>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Hanzalashaik)
 <hr/>
