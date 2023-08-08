@@ -43,8 +43,5 @@
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Hanzalashaik)
 <hr/>
 
-![github-trophies](https://stats.dooboo.io/api/github-trophies?login=Hanzalashaik)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
-<hr/>
