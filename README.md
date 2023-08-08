@@ -41,7 +41,8 @@
 <hr/>
 
 
-
+![](https://raw.githubusercontent.com/Hanzalashaik/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Hanzalashaik/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
 <hr/>
