@@ -40,9 +40,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalashaik&" alt="hanzalashaik" /></p>
 <hr/>
 
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Hanzalashaik)
+<hr/>
 
-![](https://raw.githubusercontent.com/Hanzalashaik/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Hanzalashaik/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![github-trophies](https://stats.dooboo.io/api/github-trophies?login=Hanzalashaik)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanzalashaik&theme=cobalt)
 <hr/>
