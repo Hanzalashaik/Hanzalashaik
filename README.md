@@ -1,6 +1,8 @@
 <h1 align="center">Hola! It's Hanzala Shaikh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
+<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzalashaik&label=Profile%20views&color=0e75b6&style=flat" alt="hanzalashaik" /> </p>
