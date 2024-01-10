@@ -1,7 +1,7 @@
 <h1 align="center">Hola! It's Hanzala Shaikh</h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
-<img align ="right" alt="coding" width="400" src="https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-bro.svg">
+<img align ="right" alt="coding" width="400" src="[https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-bro.svg](https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-pana.svg)">
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
 
