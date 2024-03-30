@@ -1,7 +1,7 @@
 <h1 align="center">Hola! It's Hanzala Shaikh</h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
-<img align ="right" alt="coding" width="400" src="https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-pana.svg">
+<img align ="right" alt="coding" width="350" src="https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-pana.svg">
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
 
@@ -30,12 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzalashaik&show_icons=true&locale=en" alt="hanzalashaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalashaik&" alt="hanzalashaik" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzalashaik&theme=dark)](https://git.io/streak-stats)
-
-<p align="center">
-<a href="https://github.com/Hanzalashaik">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanzalashaik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanzalashaik&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
