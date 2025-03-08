@@ -1,5 +1,5 @@
 <h1 align="center">Hola! It's Hanzala Shaikh</h1> 
-<h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
+<h3 align="center">Full-stack developer specializing in MongoDB, Express, React, and Node.js. Building responsive web applications with clean code and performant architecture. Passionate about solving complex problems and creating seamless user experiences. Currently exploring microservices and serverless architectures. Open to collaboration on innovative projects..</h3>
 
 <img align ="right" alt="coding" width="350" src="https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-pana.svg">
 
@@ -9,11 +9,12 @@
 
 
 
-- 🔭 I’m currently working on **100dayscoding.com**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🔧 Tech: JavaScript, TypeScript, MERN, THREE Js, AWS, Docker etc.
 
-- 📫 How to reach me **shaikhhanzala27@gmail.com**
+- 🌱 Learning: Swift, React Native, Kubernetes.
+
+- 📫 Contact: shaikhhanzala27@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
